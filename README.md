@@ -13,7 +13,7 @@ Understood that this was the pain I needed to learn Git, so I did it!
 So I took up [this course on Udemy](https://www.udemy.com/course/git-complete/), which I do recommend for those starting, and finished this on 24th September 2024.
 
 ## Credentials
-Here is my certificate to prove I infact did complete the course:
+Here is my certificate to prove that I, infact, did complete the course:
 
 ![image](credentials.jpg "credentials")
 
