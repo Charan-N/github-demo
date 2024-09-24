@@ -4,8 +4,8 @@ Simple Git Demo Repository to show basic workflow of git
 ## Why?
 I've only used git/GitHub for simply storing the source codes to my fav projects.
 Never really understood it fully nor did I knew how to properly utilise it,
-Until one day when a piece of code I was testing did in fact work but I had to modify and ruin it.
-My system restarted and I lost the code forever, had to rewirte.
+until one day when a piece of code I was testing did in fact work but I had to modify and ruin it.
+My system restarted and I lost the code forever, had to rewrite.
 
 Understood that this was the pain I needed to learn Git, so I did it!
 
